@@ -1,0 +1,23 @@
+body {
+  background-color: white;
+}
+h1{
+  text-align: center;
+}
+img {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  margin-top: 200px;
+  margin-left: 50px;
+
+}
+.img-spe{
+  background-color: rgb(255, 237, 0);
+  padding: 3%;
+  top: 40px;
+}
+
+.salut{
+  margin-left: 150px;
+}
